@@ -26,7 +26,7 @@
 <table width="100%" border="0">
   <tr>
     <td align="left"><u><i>Rosalind Franlin University of Medicine and Science</i></u></td>
-    <td align="right"><i>Department of Psychology</i></td>
+    <td align="right"><i><u>Department of Psychology</u></i></td>
   </tr>
     <tr>
     <td align="left">Professor with Tenure</td>
