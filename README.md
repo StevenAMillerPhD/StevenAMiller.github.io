@@ -22,11 +22,10 @@
 </center>
 <b>Academic Positions</b>
             <div class="indented-block">
-        <p>Professor with Tenure
-        <p>Associate Professor with Tenure
-        <p>Associate Professor
-        <p>Assistant Professor
-            
-    </div>
+        <p>Professor with Tenure <br>
+        Associate Professor with Tenure <br>
+        Associate Professor <br>
+        Assistant Professor <br>
+            </div>
 </body>
 </html>
