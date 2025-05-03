@@ -48,6 +48,11 @@
     <td align="left"><i>Illinois School of Professional Psychology at Argosy University, Chicago</i></td>
     <td align="right"><i>Department of Clinical</i></td>
   </tr>
+          <tr>
+    <td align="left"></td>
+    <td align="right"></td>
+  </tr>
+    
       <tr>
     <td align="left"><i> alifornia State University, Fullerton</i></td>
     <td align="right"><i>Department of Psychology (Applied Quantitative Area</i></td>
