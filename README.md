@@ -82,7 +82,7 @@
     <td align="right"><i>12/23/2006</i></td>
   </tr>
   <tr>
-    <td align="left"><i>Master of Science/i></td>
+    <td align="left"><i>Master of Science</i></td>
     <td align="right"><i>Loyola University Chicago</i></td>
   </tr>
       <tr>
