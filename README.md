@@ -115,27 +115,5 @@
   </tr>
 </table>
     
-            <div class="indented-block">
-        <b>Loyola University Chicago</b><br>  
-        <i>Social Psycholoy</i><br>
-       Doctor of Philosophy<br>
-                <br>
-        <b>Loyola University Chicago</b><br>  
-        <i>Mathematics (Probability and Statistics Sequence)</i><br>
-       Master of Science<br>
-                <br>
-                <b>Illinois State University</b><br>  
-        <i>Psychology (Clinical Sequence)</i><br>
-       Master of Science<br>
-                <br>
-                <b>Loyola University Chicao</b><br>  
-        <i>Psychology</i><br>
-       Bachelor of Science, Honors<br>
-                <br>            
-                <b>Loyola University Chicao</b><br> 
-        <i>Philosophy and English</i><br>
-       Bachelor of Arts, Honors
-                <br>                    
-            </div>
 </body>
 </html>
