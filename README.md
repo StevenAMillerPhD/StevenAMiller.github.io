@@ -78,7 +78,7 @@
        Doctor of Philosophy<br>
                 <br>
         <b>Loyola University Chicago</b><br>  
-        <i>Mathemmatics (Probability and Statistics Sequence)</i><br>
+        <i>Mathematics (Probability and Statistics Sequence)</i><br>
        Master of Science<br>
                 <br>
                 <b>Illinois State University</b><br>  
