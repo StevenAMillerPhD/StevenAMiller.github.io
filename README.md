@@ -38,18 +38,13 @@
         <i>Department of Psychology (Applied Quantitative Psychology Area)</i><br>                
         Assistant Professor
             </div>
-
-
-                    <h2>Education</h2>
+<h2>Education</h2>
             <p></p>
             <div class="indented-block">
         <b>Loyola University Chicago</b><br>  
         <i>Social Psycholoy</i><br>
        Doctor of Philosophy
                 <br>
-
             </div>
-
-            
 </body>
 </html>
