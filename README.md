@@ -32,8 +32,20 @@
                 <br>
 <table width="100%" border="0">
   <tr>
+    <td align="left">Professor with Tenure</td>
+    <td align="right">March 21, 2024 - Present</td>
+  </tr>
+    <tr>
+    <td align="left">Associate Professor with Tenure</td>
+    <td align="right">November 11, 2022 - March 21, 2024</td>
+  </tr>
+      <tr>
+    <td align="left">Associate Professor</td>
+    <td align="right">May 17, 2018 - November 11, 2022</td>
+  </tr>
+      <tr>
     <td align="left"><b>Software Engineer</b>, Amazing Tech Company</td>
-    <td align="right">Jan 2022 - Present</td>
+    <td align="right">May 17, 2018 - November 11, 2022</td>
   </tr>
 </table>
                 <br>
