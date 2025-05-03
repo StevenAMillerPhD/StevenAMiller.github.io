@@ -64,6 +64,10 @@
     <td align="left"><i>California State University, Fullerton</i></td>
     <td align="right"><i>Department of Psychology (Applied Quantitative Area)</i></td>
   </tr>
+      <tr>
+    <td align="left">Assistant Professor</td>
+    <td align="right">August, 2006 - August, 2008</td>
+  </tr>
 </table>
 
 <h2>Education</h2>
