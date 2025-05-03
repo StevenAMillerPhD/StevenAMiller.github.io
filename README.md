@@ -108,7 +108,7 @@
    </tr>
           <tr>
     <td align="left">Bachelor of Science, Honors</td>
-    <td align="right">Loyola University Chicago</td>
+    <td align="right"><i>Loyola University Chicago</i></td>
   </tr>
           <tr>
     <td align="left"><i>Psychology</i></td>
