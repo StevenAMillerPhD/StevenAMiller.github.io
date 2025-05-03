@@ -27,6 +27,10 @@
         <i>Department of Psychology</i><br>
 <table width="100%" border="0">
   <tr>
+    <td align="left"><b>Rosalind Franlin University of Medicine and Science</b>/td>
+    <td align="right"><i>Department of Psychology</i></td>
+  </tr>
+    <tr>
     <td align="left">Professor with Tenure</td>
     <td align="right">March 21, 2024 - Present</td>
   </tr>
