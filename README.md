@@ -74,45 +74,45 @@
             <p></p>
 <table width="100%" border="0">
   <tr>
-    <td align="left"><i>Doctor of Philosophy</i></td>
+    <td align="left">Doctor of Philosophy</td>
     <td align="right"><i>Loyola University Chicago</i></td>
   </tr>
       <tr>
     <td align="left"><i>Social Psychology</i></td>
-    <td align="right"><i>12/23/2006</i></td>
+    <td align="right">12/23/2006</td>
   </tr>
    <tr>
        <td></td>
    </tr>
   <tr>
-    <td align="left"><i>Master of Science</i></td>
+    <td align="left">Master of Science</td>
     <td align="right"><i>Loyola University Chicago</i></td>
   </tr>
       <tr>
     <td align="left"><i>Mathematics (Probability an Statistics Sequence)</i></td>
-    <td align="right"><i>12/18/2004</i></td>
+    <td align="right">12/18/2004</td>
   </tr>
        <tr>
        <td></td>
    </tr>
   <tr>
-    <td align="left"><i>Master of Science</i></td>
+    <td align="left">Master of Science</td>
     <td align="right"><i>Illinois State University</i></td>
   </tr>
       <tr>
     <td align="left"><i>Psychology (Clinical Sequence)</i></td>
-    <td align="right"><i>8/12/2000</i></td>
+    <td align="right">8/12/2000</td>
   </tr>
        <tr>
        <td></td>
    </tr>
           <tr>
-    <td align="left"><i>Bachelor of Science, Honors</i></td>
-    <td align="right"><i>Loyola University Chicago</i></td>
+    <td align="left">Bachelor of Science, Honors</td>
+    <td align="right">Loyola University Chicago</td>
   </tr>
           <tr>
     <td align="left"><i>Psychology</i></td>
-    <td align="right"><i>1/10/1998</i></td>
+    <td align="right">1/10/1998</td>
   </tr>
        <tr>
        <td></td>
