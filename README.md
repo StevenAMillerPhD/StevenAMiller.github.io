@@ -6,10 +6,9 @@
 </head>
 
 <body>  
-    <center>
         <h1>Steven A. Miller, Ph.D.</h1>
         <div class="contact-info">
-        <p>
+        <p style="text-align: center"> 
 <a href="https://www.rosalindfranklin.edu/academics/college-of-health-professions/degree-programs/psychology-phd/">Department of Psychology</a> • 
 <a href="https://www.rosalindfranklin.edu/">Rosalind Franklin University of Medicine and Science</a><br> 
             3333 N. Green Bay Road • 
