@@ -128,7 +128,7 @@
     <h1>Steven A. Miller, Ph.D.</h1>
     <div class="contact-info">
         <p>
-            Department, University • City, State/Country<br>
+            Department of Psychology, Rosalind Franklin University of Medicine and Science • 3333 N. Green Bay Road • North Chicago, IL 60064-3095<br>
             <a href="mailto:steven.miller@rosalindfranklin.edu">steven.miller@rosalindfranklin.edu</a> • 
             <a href="https://yourusername.github.io">yourusername.github.io</a> • 
             <a href="https://orcid.org/0000-0001-6687-776X">ORCID</a> • 
