@@ -34,7 +34,7 @@
         <i>Department of Clinical Psychology</i><br>
                 Assistant Processor <br>
         <br>
-        <b>California State University Fullerton</b><br>  
+        <b>California State University, Fullerton</b><br>  
         <i>Department of Psychology (Applied Quantitative Psychology Area)</i><br>                
         Assistant Professor
             </div>
