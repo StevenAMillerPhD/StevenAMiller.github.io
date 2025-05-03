@@ -25,7 +25,7 @@
             <div class="indented-block">
 <table width="100%" border="0">
   <tr>
-    <td align="left"><b>Rosalind Franlin University of Medicine and Science</b></td>
+    <td align="left"><i>Rosalind Franlin University of Medicine and Science</i></td>
     <td align="right"><i>Department of Psychology</i></td>
   </tr>
     <tr>
@@ -44,6 +44,15 @@
     <td align="left">Assistant Professor</td>
     <td align="right">May 17, 2018 - November 11, 2022</td>
   </tr>
+      <tr>
+    <td align="left"><i>Illinois School of Professional Psychology at Argosy University, Chicago</i></td>
+    <td align="right"><i>Department of Clinical</i></td>
+  </tr>
+      <tr>
+    <td align="left"><i> alifornia State University, Fullerton</i></td>
+    <td align="right"><i>Department of Psychology (Applied Quantitative Area</i></td>
+  </tr>
+    
 </table>
                 <br>
         <b>Illinois School of Professional Psycholoy at Argosy University Chicago</b><br>     
