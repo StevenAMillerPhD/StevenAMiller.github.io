@@ -52,16 +52,15 @@
                 <b>Illinois State University</b><br>  
         <i>Psychology (Clinical Sequence)</i><br>
                      <br>
-       Master of Science
+       Master of Science<br>
                 <br>
                     <br>
                 <b>Loyola University Chicao</b><br>  
         <i>Psychology</i><br>
                      <br>
-       Bachelor of Science, Honors
+       Bachelor of Science, Honors<br>
                 <br>            
                 <b>Loyola University Chicao</b><br> 
-                <br>
         <i>Philosophy and English</i><br>
        Bachelor of Arts, Honors
                 <br>                    
