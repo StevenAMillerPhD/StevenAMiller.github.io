@@ -125,7 +125,7 @@
 <body>
     <button class="print-button" onclick="window.print()">Print CV</button>
     
-    <h1>Your Name</h1>
+    <h1>Steven A. Miller, Ph.D.</h1>
     <div class="contact-info">
         <p>
             Department, University • City, State/Country<br>
