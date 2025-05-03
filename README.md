@@ -22,6 +22,6 @@
 </center>
 
 
-        <h2>Academic Positions</h2>
+        <b>Academic Positions</b>
         
 
