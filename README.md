@@ -24,11 +24,4 @@
 
         <h2>Academic Positions</h2>
         
-        <div class="entry">
-            <div class="entry-header">
-                <span class="position">Assistant/Associate/Full Professor</span>
-                <span class="date">Year - Present</span>
-            </div>
 
-   </body>     
-</html>
