@@ -25,7 +25,7 @@
             <div class="indented-block">
 <table width="100%" border="0">
   <tr>
-    <td align="left"><b>Rosalind Franlin University of Medicine and Science</b>/td>
+    <td align="left"><b>Rosalind Franlin University of Medicine and Science</b></td>
     <td align="right"><i>Department of Psychology</i></td>
   </tr>
     <tr>
