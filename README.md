@@ -15,7 +15,7 @@
             North Chicago, IL 60064-3095 •
             <a href="tel:1-847-578-8726">(847) 578-8726</a> <br>
             <a href="mailto:steven.miller@rosalindfranklin.edu">steven.miller@rosalindfranklin.edu</a> • 
-            <a href="https://StevenAMiller.github.io">StevenAMiller.github.io</a> • 
+            <a href="https://github.com/StevenAMillerPhD/StevenAMiller.github.io/tree/main?tab=readme-ov-file#steven-a-miller-phd">StevenAMiller.github.io</a> • 
             <a href="https://orcid.org/0000-0001-6687-776X">ORCID</a> • 
             <a href="https://scholar.google.com/citations?user=ggne6LkAAAAJ&hl=en">Google Scholar</a>
         </p>
