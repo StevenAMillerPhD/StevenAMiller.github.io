@@ -20,7 +20,7 @@
             <a href="https://scholar.google.com/citations?user=ggne6LkAAAAJ&hl=en">Google Scholar</a>
         </p>
 </center>
-        <h2>Acaemic Positions</h2>
+        <h2>Academic Positions</h2>
             <p></p>
             <div class="indented-block">
         <b>Rosalind Franlin University of Medicine and Science</b><br>  
