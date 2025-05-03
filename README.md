@@ -10,7 +10,9 @@
         <h1>Steven A. Miller, Ph.D.</h1>
     <div class="contact-info">
         <p>
-            Department of Psychology • Rosalind Franklin University of Medicine and Science<br> 
+            
+<a href="https://www.rosalindfranklin.edu/academics/college-of-health-professions/degree-programs/psychology-department/">Department of Psychology</a> • 
+<a href="https://www.rosalindfranklin.edu/">Rosalind Franklin University of Medicine and Science</a><br> 
             3333 N. Green Bay Road • North Chicago, IL 60064-3095<br>
             <a href="mailto:steven.miller@rosalindfranklin.edu">steven.miller@rosalindfranklin.edu</a> • 
             <a href="https://StevenAMiller.github.io">StevenAMiller.github.io</a> • 
