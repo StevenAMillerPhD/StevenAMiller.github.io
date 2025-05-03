@@ -22,7 +22,6 @@
 </center>
 
 
-             <div class="section">
         <h2>Academic Positions</h2>
         
         <div class="entry">
