@@ -21,7 +21,6 @@
         </p>
 </center>
         <h2>Acaemic Positions</h2>
-        <div class="contact-info">
             <p></p>
             <div class="indented-block">
         <p>Professor with Tenure <br>
