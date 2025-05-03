@@ -21,6 +21,7 @@
         </p>
 </center>
 <b>Academic Positions</b>
+            <p></p>
             <div class="indented-block">
         <p>Professor with Tenure <br>
         Associate Professor with Tenure <br>
