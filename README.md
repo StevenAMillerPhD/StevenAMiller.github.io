@@ -30,6 +30,13 @@
         Associate Professor <br>
         Assistant Professor <br>
                 <br>
+<table width="100%" border="0">
+  <tr>
+    <td align="left"><b>Software Engineer</b>, Amazing Tech Company</td>
+    <td align="right">Jan 2022 - Present</td>
+  </tr>
+</table>
+                <br>
         <b>Illinois School of Professional Psycholoy at Argosy University Chicago</b><br>     
         <i>Department of Clinical Psychology</i><br>
                 Assistant Processor <br>
