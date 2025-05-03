@@ -57,7 +57,6 @@
                     <br>
                 <b>Loyola University Chicao</b><br>  
         <i>Psychology</i><br>
-                     <br>
        Bachelor of Science, Honors<br>
                 <br>            
                 <b>Loyola University Chicao</b><br> 
