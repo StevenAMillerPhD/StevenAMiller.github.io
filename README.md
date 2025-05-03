@@ -54,9 +54,8 @@
   </tr>
       <tr>
     <td align="left"><i>California State University, Fullerton</i></td>
-    <td align="right"><i>Department of Psychology (Applied Quantitative Area</i></td>
+    <td align="right"><i>Department of Psychology (Applied Quantitative Area)</i></td>
   </tr>
-    
 </table>
               
             </div>
