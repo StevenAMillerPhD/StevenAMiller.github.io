@@ -23,8 +23,6 @@
         <h2>Academic Positions</h2>
             <p></p>
             <div class="indented-block">
-        <b>Rosalind Franlin University of Medicine and Science</b><br>  
-        <i>Department of Psychology</i><br>
 <table width="100%" border="0">
   <tr>
     <td align="left"><b>Rosalind Franlin University of Medicine and Science</b>/td>
