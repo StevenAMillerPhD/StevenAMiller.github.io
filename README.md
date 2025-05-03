@@ -94,6 +94,14 @@
     <td align="right"><i>Illinois State University</i></td>
   </tr>
       <tr>
+    <td align="left"><i>Psychology</i></td>
+    <td align="right"><i>8/12/2000</i></td>
+  </tr>
+          <tr>
+    <td align="left"><i>Psychology (Clinical Sequence)</i></td>
+    <td align="right"><i>1/10/1998</i></td>
+  </tr>
+          <tr>
     <td align="left"><i>Psychology (Clinical Sequence)</i></td>
     <td align="right"><i>8/12/2000</i></td>
   </tr>
