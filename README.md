@@ -45,6 +45,23 @@
         <i>Social Psycholoy</i><br>
        Doctor of Philosophy
                 <br>
+        <b>Loyola University Chicago</b><br>  
+        <i>Mathemmatics (Probability and Statistics Sequence</i><br>
+       Master of Science
+                <br>
+                <b>Illinois State University</b><br>  
+        <i>Psychology (Clinical Sequence)</i><br>
+       Master of Science
+                <br>
+                    <br>
+                <b>Loyola University Chicao</b><br>  
+        <i>Psychology</i><br>
+       Bachelor of Science, Honors
+                <br>            
+                <b>Loyola University Chicao</b><br>  
+        <i>Philosophy and English</i><br>
+       Bachelor of Arts, Honors
+                <br>                    
             </div>
 </body>
 </html>
