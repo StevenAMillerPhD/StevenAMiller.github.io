@@ -29,7 +29,7 @@
         Assistant Professor <br>
             </div>
 
-        <h2>Education</h2
+        <h2>Education</h2>
         <div class="entry">
                 <span class="position">Ph.D. in Your Field</span>
                 <span class="date">Year - Year</span>
