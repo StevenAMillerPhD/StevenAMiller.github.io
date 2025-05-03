@@ -42,7 +42,7 @@
   </tr>
       <tr>
     <td align="left">Assistant Professor</td>
-    <td align="right">May 17, 2018 - November 11, 2022</td>
+    <td align="right">August 19, 2013 - May 17, 2018</td>
   </tr>
       <tr>
             <tr>
