@@ -22,8 +22,7 @@
 </center>
 <b>Academic Positions</b>
             <div class="indented-block">
-        <p>This is an indented block of content. You can use the margin-left property to control the level of indentation.</p>
-        <p>Feel free to add more content here!</p>
+        <p>Professor
     </div>
 </body>
 </html>
