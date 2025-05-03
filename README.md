@@ -23,17 +23,13 @@
         <h2>Acaemic Positions</h2>
             <p></p>
             <div class="indented-block">
+        <b>Rosalind Franlin University of Medicine and Science</b><br>        
         Professor with Tenure <br>
         Associate Professor with Tenure <br>
         Associate Professor <br>
         Assistant Professor <br>
             </div>
-
-        <h2>Education</h2>
-        <div class="entry">
-                <span class="position">Ph.D. in Your Field</span>
-                <span class="date">Year - Year</span>
-        </div>
+>
 
         
 </body>
