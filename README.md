@@ -31,7 +31,7 @@
                 <br>
         <b>Illinois School of Professional Psycholoy at Argosy University Chicago</b><br>     
         Assistant Processor <br>
-                
+        <br>
         <b>California State University Fullerton</b><br>    
         Assistant Professor
             </div>
