@@ -25,11 +25,6 @@
             <div class="indented-block">
         <b>Rosalind Franlin University of Medicine and Science</b><br>  
         <i>Department of Psychology</i><br>
-        Professor with Tenure <br>
-        Associate Professor with Tenure <br>
-        Associate Professor <br>
-        Assistant Professor <br>
-                <br>
 <table width="100%" border="0">
   <tr>
     <td align="left">Professor with Tenure</td>
@@ -44,7 +39,7 @@
     <td align="right">May 17, 2018 - November 11, 2022</td>
   </tr>
       <tr>
-    <td align="left">Assistnat Professor</td>
+    <td align="left">Assistnt Professor</td>
     <td align="right">May 17, 2018 - November 11, 2022</td>
   </tr>
 </table>
