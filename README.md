@@ -22,7 +22,11 @@
 </center>
 <b>Academic Positions</b>
             <div class="indented-block">
-        <p>Professor
+        <p>Professor with Tenure
+        <p>Associate Professor with Tenure
+        <p>Associate Professor
+        <p>Assistant Professor
+            
     </div>
 </body>
 </html>
