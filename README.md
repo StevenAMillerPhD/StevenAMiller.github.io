@@ -20,7 +20,7 @@
             <a href="https://scholar.google.com/citations?user=ggne6LkAAAAJ&hl=en">Google Scholar</a>
         </p>
 </center>
-        <h1>Steven A. Miller</h1>
+        <h2>Acaemic Positions</h2>
         <div class="contact-info">
             <p></p>
             <div class="indented-block">
