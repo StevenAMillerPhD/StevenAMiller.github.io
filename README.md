@@ -20,10 +20,6 @@
             <a href="https://scholar.google.com/citations?user=ggne6LkAAAAJ&hl=en">Google Scholar</a>
         </p>
 </center>
-
-
-        <b>Academic Positions</b>
-        
-
+Academic Positions
 </body>
 </html>
