@@ -6,7 +6,8 @@
 </head>
 
 <body>  
-        <h1 align="center">Steven A. Miller, Ph.D.</h1>
+        <h1 align="center">Steven A. Miller</h1>
+            <h2 align="center">(he/him)</h1>
         <div class="contact-info">
 <p align="center">
 <a href="https://www.rosalindfranklin.edu/academics/college-of-health-professions/degree-programs/psychology-phd/">Department of Psychology</a> • 
