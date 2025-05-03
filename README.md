@@ -81,6 +81,23 @@
     <td align="left"><i>Social Psychology</i></td>
     <td align="right"><i>12/23/2006</i></td>
   </tr>
+  <tr>
+    <td align="left"><i>Master of Science/i></td>
+    <td align="right"><i>Loyola University Chicago</i></td>
+  </tr>
+      <tr>
+    <td align="left"><i>Mathematics (Probability an Statistics Sequence)</i></td>
+    <td align="right"><i>12/18/2004</i></td>
+  </tr>
+  <tr>
+    <td align="left"><i>Master of Science/i></td>
+    <td align="right"><i>Illinois State University</i></td>
+  </tr>
+      <tr>
+    <td align="left"><i>Psychology (Clinical Sequence)</i></td>
+    <td align="right"><i>8/12/2000</i></td>
+  </tr>
+    
 </table>
     
             <div class="indented-block">
