@@ -45,8 +45,16 @@
     <td align="right">May 17, 2018 - November 11, 2022</td>
   </tr>
       <tr>
+            <tr>
+    <td align="left"> </td>
+    <td align="right"> </td>
+  </tr>
     <td align="left"><i>Illinois School of Professional Psychology at Argosy University, Chicago</i></td>
     <td align="right"><i>Department of Clinical Psychology</i></td>
+  </tr>
+      <tr>
+    <td align="left">Assistant Professor</td>
+    <td align="right">November 11, 2022 - March 21, 2024</td>
   </tr>
           <tr>
     <td align="left"></td>
