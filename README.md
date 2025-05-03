@@ -28,9 +28,12 @@
         Associate Professor with Tenure <br>
         Associate Professor <br>
         Assistant Professor <br>
+                <br>
+        <b>Illinois School of Professional Psycholoy at Argosy University Chicago</b><br>     
+        Assistant Processor <br>
+                
+        <b>California State University Fullerton</b><br>    
+        Assistant Professor
             </div>
->
-
-        
 </body>
 </html>
