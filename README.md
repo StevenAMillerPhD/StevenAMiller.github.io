@@ -57,8 +57,7 @@
     <td align="right"><i>Department of Psychology (Applied Quantitative Area)</i></td>
   </tr>
 </table>
-              
-            </div>
+
 <h2>Education</h2>
             <p></p>
             <div class="indented-block">
