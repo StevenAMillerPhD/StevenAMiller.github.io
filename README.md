@@ -72,6 +72,17 @@
 
 <h2>Education</h2>
             <p></p>
+<table width="100%" border="0">
+  <tr>
+    <td align="left"><i>Doctor of Philosophy</i></td>
+    <td align="right"><i>Loyola University Chicago</i></td>
+  </tr>
+      <tr>
+    <td align="left"><i>Social Psychology</i></td>
+    <td align="right"><i>12/23/2006</i></td>
+  </tr>
+</table>
+    
             <div class="indented-block">
         <b>Loyola University Chicago</b><br>  
         <i>Social Psycholoy</i><br>
