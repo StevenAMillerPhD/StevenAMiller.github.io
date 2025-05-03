@@ -7,7 +7,7 @@
 
 <body>  
     <center>
-        <<h1>Steven A. Miller, Ph.D.</h1>
+        <h1>Steven A. Miller, Ph.D.</h1>
     <div class="contact-info">
         <p>
             Department of Psychology • Rosalind Franklin University of Medicine and Science<br> 
