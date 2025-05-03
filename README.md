@@ -23,20 +23,17 @@
         <h2>Acaemic Positions</h2>
             <p></p>
             <div class="indented-block">
-        <p>Professor with Tenure <br>
+        Professor with Tenure <br>
         Associate Professor with Tenure <br>
         Associate Professor <br>
         Assistant Professor <br>
             </div>
 
-            
-        <div class="section">
-        <h2>Education</h2>
-        
+        <h2>Education</h2
         <div class="entry">
                 <span class="position">Ph.D. in Your Field</span>
                 <span class="date">Year - Year</span>
-            </div>
+        </div>
 
         
 </body>
