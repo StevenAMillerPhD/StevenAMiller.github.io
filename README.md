@@ -23,16 +23,19 @@
         <h2>Acaemic Positions</h2>
             <p></p>
             <div class="indented-block">
-        <b>Rosalind Franlin University of Medicine and Science</b><br>        
+        <b>Rosalind Franlin University of Medicine and Science</b><br>  
+        <i>Department of Psychology</i><br>
         Professor with Tenure <br>
         Associate Professor with Tenure <br>
         Associate Professor <br>
         Assistant Professor <br>
                 <br>
         <b>Illinois School of Professional Psycholoy at Argosy University Chicago</b><br>     
-        Assistant Processor <br>
+        <i>Department of Clinical Psychology</i><br>
+                Assistant Processor <br>
         <br>
-        <b>California State University Fullerton</b><br>    
+        <b>California State University Fullerton</b><br>  
+        <i>Department of Psychology (Applied Quantitative Psychology Area)</i><br>                
         Assistant Professor
             </div>
 </body>
