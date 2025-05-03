@@ -20,7 +20,7 @@
             <a href="https://scholar.google.com/citations?user=ggne6LkAAAAJ&hl=en">Google Scholar</a>
         </p>
 </center>
-</body>
+
 
              <div class="section">
         <h2>Academic Positions</h2>
@@ -36,5 +36,5 @@
                 <li>Another responsibility or achievement</li>
             </ul>
         </div>
-        
+   </body>     
 </html>
