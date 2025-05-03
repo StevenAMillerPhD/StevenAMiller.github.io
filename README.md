@@ -29,11 +29,6 @@
                 <span class="position">Assistant/Associate/Full Professor</span>
                 <span class="date">Year - Present</span>
             </div>
-            <div class="institution">Department, University, Location</div>
-            <ul>
-                <li>Brief description of responsibilities and achievements</li>
-                <li>Another responsibility or achievement</li>
-            </ul>
-        </div>
+
    </body>     
 </html>
