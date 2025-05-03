@@ -49,7 +49,7 @@
     <td align="left"> </td>
     <td align="right"> </td>
   </tr>
-    <td align="left"><i>Illinois School of Professional Psychology at Argosy University, Chicago</i></td>
+    <td align="left"><i>Illinois School of Professional Psychology at <br>  Argosy University, Chicago</i></td>
     <td align="right"><i>Department of Clinical Psychology</i></td>
   </tr>
       <tr>
