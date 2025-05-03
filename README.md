@@ -105,7 +105,14 @@
     <td align="left"><i>Psychology</i></td>
     <td align="right"><i>1/10/1998</i></td>
   </tr>
-    
+              <tr>
+    <td align="left"><i>Bachelor of Arts, Honors</i></td>
+    <td align="right"><i>Loyola University Chicago</i></td>
+  </tr>
+          <tr>
+    <td align="left"><i>Philosophy and English</i></td>
+    <td align="right"><i>1/10/1998</i></td>
+  </tr>
 </table>
     
             <div class="indented-block">
