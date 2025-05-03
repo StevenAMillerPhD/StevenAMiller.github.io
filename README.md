@@ -58,14 +58,7 @@
   </tr>
     
 </table>
-                <br>
-        <b>Illinois School of Professional Psycholoy at Argosy University Chicago</b><br>     
-        <i>Department of Clinical Psychology</i><br>
-                Assistant Processor <br>
-        <br>
-        <b>California State University, Fullerton</b><br>  
-        <i>Department of Psychology (Applied Quantitative Psychology Area)</i><br>                
-        Assistant Professor
+              
             </div>
 <h2>Education</h2>
             <p></p>
