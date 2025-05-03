@@ -29,18 +29,16 @@
         Associate Professor <br>
         Assistant Professor <br>
             </div>
- <div class="section">
+
+            
+        <div class="section">
         <h2>Education</h2>
         
         <div class="entry">
-            <div class="entry-header">
                 <span class="position">Ph.D. in Your Field</span>
                 <span class="date">Year - Year</span>
             </div>
-            <div class="institution">University Name, Location</div>
-            <p>Dissertation: "Title of Your Dissertation"</p>
-            <p>Advisor: Professor Name</p>
-        </div>
+
         
 </body>
 </html>
