@@ -118,12 +118,12 @@
        <td></td>
    </tr>
               <tr>
-    <td align="left"><i>Bachelor of Arts, Honors</i></td>
+    <td align="left">Bachelor of Arts, Honors</td>
     <td align="right"><i>Loyola University Chicago</i></td>
   </tr>
           <tr>
     <td align="left"><i>Philosophy and English</i></td>
-    <td align="right"><i>1/10/1998</i></td>
+    <td align="right">1/10/1998</td>
   </tr>
 </table>
     
