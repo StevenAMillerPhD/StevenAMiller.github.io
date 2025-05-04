@@ -117,6 +117,7 @@
   </tr>
        <tr>
        <td></td>
+            <td></td>
    </tr>
               <tr>
     <td align="left">Bachelor of Arts, Honors</td>
