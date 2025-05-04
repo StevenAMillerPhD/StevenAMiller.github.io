@@ -89,7 +89,7 @@
     <td align="right"><i>Loyola University Chicago</i></td>
   </tr>
       <tr>
-    <td align="left"><i>Mathematics (Probability an Statistics Sequence)</i></td>
+    <td align="left"><i>Mathematics (Probability and Statistics Sequence)</i></td>
     <td align="right">12/18/2004</td>
   </tr>
        <tr>
